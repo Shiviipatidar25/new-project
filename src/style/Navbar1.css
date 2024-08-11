@@ -1,0 +1,13 @@
+/*.navbar{
+    background:linear-gradient(to left, white, SlateBlue);
+}*/
+.navbar{
+    
+    padding: 50px;
+    margin-bottom: 20px;
+    margine-left:100px;
+    margine-right:200px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+}
+
